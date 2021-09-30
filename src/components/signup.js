@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 const signup = () => {
     const paperStyle = {
         width: "55%",
-        height: "70%",
+    
         padding: 20, margin: '20px auto',
 
         backgroundImage: ' linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%)',
